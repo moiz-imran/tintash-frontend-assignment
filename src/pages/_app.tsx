@@ -1,6 +1,8 @@
-import { AppProps } from 'next/app';
-import React from 'react';
-import {GlobalProvidersWrapper} from "components/GlobalProvidersWrapper";
+import React from "react";
+
+import { AppProps } from "next/app";
+
+import { GlobalProvidersWrapper } from "components/GlobalProvidersWrapper";
 
 function App({ Component, pageProps }: AppProps) {
   return (
@@ -9,6 +11,5 @@ function App({ Component, pageProps }: AppProps) {
     </GlobalProvidersWrapper>
   );
 }
-
 
 export default App;

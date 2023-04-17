@@ -1,1 +1,1 @@
-declare module 'react-upload-gallery';
+declare module "react-upload-gallery";

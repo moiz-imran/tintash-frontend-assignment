@@ -1,4 +1,4 @@
-import { extendTheme } from '@chakra-ui/react';
+import { extendTheme } from "@chakra-ui/react";
 
 import {
   borders,
@@ -10,7 +10,7 @@ import {
   radii,
   shadows,
   space,
-} from './foundations';
+} from "./foundations";
 
 export const theme = extendTheme({
   // Foundations
@@ -28,6 +28,6 @@ export const theme = extendTheme({
 
   config: {
     useSystemColorMode: false,
-    initialColorMode: 'light',
+    initialColorMode: "light",
   },
 });

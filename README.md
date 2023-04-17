@@ -26,7 +26,7 @@ Along with the development of the dashboard, we expect you to go in-depth on at 
 1. Once you have opened the link you must sign up and log in so you can have access to the colors, fonts, margins and assets information.
 2. Develop the interface as close as possible to the mockup.
 3. Implement project theme provider, component rules, props and make it able to interact with external data.
-4. Test a piece of the codebase. You can choose which part and functions to test.
+4. [__BONUS__] Test a piece of the codebase. You can choose which part and functions to test.
 5. [__BONUS__] Implement motion/animation transitions for the first card component, on the accordion transition. Surprise us by choosing for yourself which aspects to implement.
 6. We recommend you follow our React stack including Typescript, [Chakra-UI](https://chakra-ui.com/), [Framer Motion](https://www.framer.com/motion/) and [React Testing Library](https://testing-library.com/docs/react-testing-library/intro). But it is not a requirement.
 

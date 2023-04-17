@@ -1,8 +1,9 @@
-import React from 'react';
-import Head from 'next/head';
-import { Global, css } from '@emotion/react';
+import React from "react";
 
-import type { FC } from 'react';
+import { Global, css } from "@emotion/react";
+import Head from "next/head";
+
+import type { FC } from "react";
 
 export const Main: FC = ({ children }) => {
   return (
