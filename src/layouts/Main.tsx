@@ -1,13 +1,14 @@
 import React from 'react';
 import Head from 'next/head';
-import { FC } from 'react';
 import { Global, css } from '@emotion/react';
+
+import type { FC } from 'react';
 
 export const Main: FC = ({ children }) => {
   return (
     <>
       <Head>
-        <title>GStudioApp - FrontEnd assignment</title>
+        <title>Tintash - Frontend Assignment</title>
         <meta charSet="utf-8" />
         <meta
           name="viewport"
