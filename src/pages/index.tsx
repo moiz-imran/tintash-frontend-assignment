@@ -24,7 +24,12 @@ const Index: NextPage = () => {
       </Box>
 
       <Box px={6} py={6}>
-        <Image mx="auto" width="70%" src="/tintash-logo.svg" />
+        <Image
+          mx="auto"
+          width="70%"
+          src="/tintash-logo.svg"
+          alt="Tintash Logo"
+        />
       </Box>
 
       <Box w="40%" my={2} py={2} px={2} borderWidth="1px" borderRadius="md">
