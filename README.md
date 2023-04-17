@@ -33,6 +33,6 @@ Along with the development of the dashboard, we expect you to go in-depth on at 
 
 # Delivery Instructions
 
-- Download the code, push this as is to a private repository's main branch in your Github account.
-- Implement your solution in a separate branch and open a Pull Request against the main branch.
+- Download the code, push this as is to a private repository's main branch in your Github account. Add ```moiz-imran``` to the project.
+- Implement your solution in a separate branch, open a Pull Request against the main branch and add ```moiz-imran``` as a reviewer.
 - Modify this README in your branch to mention any assumptions and answers to the questions above. Also feel free to mention any diversions from the assigned tasks.
